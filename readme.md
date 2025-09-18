@@ -41,4 +41,5 @@ It uses the **TMDB 5000 Movies Dataset** to recommend movies that are similar to
    ```bash
    git clone https://github.com/Jsamlu/MovieRecomendationSystem.git
    cd MovieRecomendationSystem
+2. ``` bash !pip install numpy pandas scikit-learn nltk 
 
