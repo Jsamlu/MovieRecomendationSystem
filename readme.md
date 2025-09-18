@@ -38,8 +38,12 @@ It uses the **TMDB 5000 Movies Dataset** to recommend movies that are similar to
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
-   ```bash
+   bash: 
+
    git clone https://github.com/Jsamlu/MovieRecomendationSystem.git
-   cd MovieRecomendationSystem
-2. ``` bash !pip install numpy pandas scikit-learn nltk 
+   cd MovieRecomendationSystem 
+3. Install Dependencies:
+   bash:
+
+   !pip install numpy pandas scikit-learn nltk 
 
